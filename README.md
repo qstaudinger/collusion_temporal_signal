@@ -16,5 +16,6 @@ Notes:
 
 Code based on: Wallimann, Hannes et al. (2025). “Where is the Limit? Assessing the Potential of Algorithm-Based Cartel Detection”. In: Journal of Competition Law & Economics. DOI: 10 . 1093 / joclec /
 nhae023.
+
 Data and Notes based on: García Rodríguez, Manuel J et al. (2022). “Collusion detection in public procurement auctions with machine learning algorithms”. In: Automation in Construction 133, p. 104047. DOI: 10.1016/j.autcon.2021.104047.
 
