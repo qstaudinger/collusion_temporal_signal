@@ -1,4 +1,4 @@
-This folder contains the followings files which are described
+This folder contains the followings files which are described:
 
 DB_Collusion_Switzerland_GR_and_See-Gaster_processed.csv
 Collusive dataset from Switzerland GR and See-Gaster. It has the columns:
